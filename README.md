@@ -1,6 +1,6 @@
 # Advent of Code 2022
 
-Access the problems [here](https://adventofcode.com/){target="_blank"}.
+Access the problems [here](https://adventofcode.com/){:target="_blank"}.
 
 ## Usage
 
